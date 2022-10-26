@@ -1,7 +1,7 @@
 # Google Analytics Reporting API With Python
 How to send requests and process responses from Google Analytics Reporting API (including pivot!)
 
-MERI WALI COPY
+MERI WALI COPY HAI YE
 
 How to set up and use Google Analytics Reporting API:
 1. Create a new project in Google Cloud. Helpful reference: https://cloud.google.com/resource-manager/docs/creating-managing-projects
